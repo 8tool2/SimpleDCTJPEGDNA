@@ -1,4 +1,4 @@
-## **JPEG-based image coding solution for data storage on DNA**
+## **JPEG-based image coding solution for data storage on DNA ~ Prototype**
 
 I came across this project on DNA based storage, I thought it would be the ideal for long term
 storage needs. Today's harddisks have a storage life of no longer than 10-20 years.And recent
