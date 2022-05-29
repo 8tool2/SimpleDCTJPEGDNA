@@ -12,3 +12,11 @@ Used a simplified version of DCT (Discrete Cosine Transform)
 Moving on to using forms of DNA Sequence Compression. Wish me luck. Fingers crossed to find something beautiful <3. 
 
 Refer to Project Proposal File for Simplified Idea.
+
+**Comparision Chart **
+
+![image](https://raw.githubusercontent.com/asuru56/SimpleDCTJPEGDNA/main/Screenshot%20from%202022-05-29%2022-16-55.png)
+
+**Nanopore Sequencing Reading Speed Simulation Graph**
+
+![image](https://raw.githubusercontent.com/asuru56/SimpleDCTJPEGDNA/main/Screenshot%20from%202022-05-29%2022-17-21.png)
