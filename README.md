@@ -10,3 +10,5 @@ compression algorithms to achieve an efficient model
 Used a simplified version of DCT (Discrete Cosine Transform)
 
 Moving on to using forms of DNA Sequence Compression. Wish me luck. Fingers crossed to find something beautiful <3. 
+
+Refer to Project Proposal File for Simplified Idea.
